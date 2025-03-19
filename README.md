@@ -1,6 +1,6 @@
-Got it! Here’s your **README.md** file in a single, clean format for easy copy-pasting:  
 
-```md
+
+
 # **Next.js Authentication App with MongoDB & Docker**  
 
 🚀 A simple authentication system using **Next.js**, **MongoDB**, and **Docker**. This project includes user **Login & Logout** functionality, a **Dashboard** for authenticated users, **MongoDB** for storing user data, and **Docker & Docker Compose** for containerization.  
@@ -36,7 +36,6 @@ npm install
 ### **Set up environment variables**  
 Create a `.env.local` file and add the following variables:  
 
-```
 # MongoDB connection
 MONGODB_URI=mongodb://localhost:27017/nextauth
 
@@ -121,5 +120,3 @@ nextjs-auth-docker/
 
 🎉 **Happy Coding!** 🚀  
 ```
-
-Now you can copy and paste this directly into your `README.md`. Let me know if you need any tweaks! 🚀🔥
